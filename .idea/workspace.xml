@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f2d0541-08e4-4b4a-b8fb-d0c521081669" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testMe_Symfony5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testMe_Symfony5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +135,7 @@
   <component name="ProjectId" id="1sf0S3jIZ9rdH6DDbt4aE7EdMek" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Symfony/3A44" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -178,7 +173,13 @@
       <workItem from="1621845252667" duration="590000" />
       <workItem from="1622749507526" duration="6771000" />
       <workItem from="1623088722213" duration="1117000" />
-      <workItem from="1623260566984" duration="1944000" />
+      <workItem from="1623260566984" duration="3486000" />
+      <workItem from="1623329313683" duration="924000" />
+      <workItem from="1624520819962" duration="1207000" />
+      <workItem from="1624953102922" duration="39000" />
+      <workItem from="1632243404525" duration="2222000" />
+      <workItem from="1632252808171" duration="127000" />
+      <workItem from="1632382252403" duration="85000" />
     </task>
     <servers />
   </component>

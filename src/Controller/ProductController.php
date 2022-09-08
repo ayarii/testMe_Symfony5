@@ -31,7 +31,7 @@ class ProductController extends AbstractController
     {
         $entityManager = $doctrire->getManager();
         # $entityManager = $this>ManagerRegistry::class->getManager();
-        # $entityManager= $this->getDoctrine()->getManager()
+        # $entityManager= $this->getDoctrine()->getManager();
         $product = new Product();
 //    $product->setName('Keyboard');
 //    $product->setPrice(1999);
